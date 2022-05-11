@@ -1,0 +1,11 @@
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\bin\Debug\Exercicio2_pg15-16-18.exe.config
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\bin\Debug\Exercicio2_pg15-16-18.exe
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\bin\Debug\Exercicio2_pg15-16-18.pdb
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.csproj.AssemblyReference.cache
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.csproj.SuggestedBindingRedirects.cache
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15_16_18.Form1.resources
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15_16_18.Properties.Resources.resources
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.csproj.GenerateResource.cache
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.csproj.CoreCompileInputs.cache
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.exe
+H:\POO\Paginas15,16,18\Exercicio2_pg15-16-18\Exercicio2_pg15-16-18\obj\Debug\Exercicio2_pg15-16-18.pdb
